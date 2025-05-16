@@ -29,7 +29,7 @@ O objetivo deste projeto é facilitar o controle e a gestão de EPIs, permitindo
 ### Como Executar
 
 1. **API**  
-    - Certifique-se de ter o **Java 17** instalado.  
+    - Certifique-se de ter o **Java 21** instalado.  
     - Navegue até o diretório `API` e execute o comando:  
       ```bash
       ./mvnw spring-boot:run
