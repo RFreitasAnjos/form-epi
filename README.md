@@ -11,6 +11,7 @@ Este é um projeto de formulário para controle de EPI (Equipamentos de Proteç�
 
 2. **form-fiscais-epi-mobile**  
     Diretório do aplicativo mobile desenvolvido em **React Native (Expo Bare Minimum)**, utilizado para coleta de dados em campo.
+    
 
 3. **front-web**  
     Diretório da interface web desenvolvida em **Angular 21**, utilizada para visualização e gerenciamento dos dados.
